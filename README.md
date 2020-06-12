@@ -56,3 +56,10 @@ Today, with the rise of REST and web services over HTTP, the term is often assum
 
 Sometimes the term API is, by extension, used to refer to the subset of software entities (code, subcomponents, modules, etc.) that serve to actually implement the API of some encompassing component or system.
 
+# Scrapy
+
+Scrapy is a free and open-source web-crawling framework written in Python. Originally designed for web scraping, it can also be used to extract data using APIs or as a general-purpose web crawler. It is currently maintained by Scrapinghub Ltd., a web-scraping development and services company.
+
+Scrapy project architecture is built around "spiders", which are self-contained crawlers that are given a set of instructions. Following the spirit of other don't repeat yourself frameworks, such as Django, it makes it easier to build and scale large crawling projects by allowing developers to reuse their code. Scrapy also provides a web-crawling shell, which can be used by developers to test their assumptions on a site’s behavior.
+
+Some well-known companies and products using Scrapy are: Lyst, Parse.ly, Sayone Technologies, Sciences Po Medialab, Data.gov.uk’s World Government Data site.
