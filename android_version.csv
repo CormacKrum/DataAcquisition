@@ -1,0 +1,18 @@
+,Name,Version number(s),Initial release date,Latest release,API level,References
+0,No codename,1.0,"September 23, 2008",,1,[9]
+1,Cupcake,1.5,"April 27, 2009",,3,
+2,Donut,1.6,"September 15, 2009",,4,[12]
+3,Eclair,2.0 – 2.1,"October 26, 2009","January 12, 2010",5 – 7,[13]
+4,Froyo,2.2 – 2.2.3,"May 20, 2010","November 21, 2011",8,[14]
+5,Gingerbread,2.3 – 2.3.7,"December 6, 2010","September 21, 2011",9 – 10,[15]
+6,Honeycomb,3.0 – 3.2.6,"February 22, 2011","February 15, 2014",11 – 13,[16]
+7,Ice Cream Sandwich,4.0 – 4.0.4,"October 18, 2011","June 6, 2012",14 – 15,[17]
+8,Jelly Bean,4.1 – 4.3.1,"July 9, 2012","October 7, 2013",16 – 18,[18]
+9,KitKat,4.4 – 4.4.4,"October 31, 2013","July 7, 2014",19 – 20,[19]
+10,Lollipop,5.0 – 5.1.1,"November 12, 2014","April 21, 2015",21 – 22,[20]
+11,Marshmallow,6.0 – 6.0.1,"October 5, 2015","October 3, 2017",23,[21]
+12,Nougat,7.0 – 7.1.2,"August 22, 2016","August 5, 2019",24 – 25,[22][23][24][25]
+13,Oreo,8.0 – 8.1,"August 21, 2017","June 1, 2020",26 – 27,[26]
+14,Pie,9.0,"August 6, 2018","June 1, 2020",28,[27]
+15,Android 10,10.0,"September 3, 2019","June 1, 2020",29,[28]
+16,Android 11,11.0,TBD,,,
